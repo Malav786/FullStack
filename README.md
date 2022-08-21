@@ -15,7 +15,7 @@
 8.	Create an endpoint to delete the patient record to the database. (DeleteMapping)
 
 # Perform the following task related to React Js application. (10 Marks)
-Initial React JS app is created in the webapps folder. Following modules are already installed:  
+Initial React JS app is created in the webapps folder. Following modules are already installed (just execute command ""npm install" before "npm start"):  
 •	react-bootstrap (Also added the required dependancy in index.html)  
 •	react-router  
 •	axios  
